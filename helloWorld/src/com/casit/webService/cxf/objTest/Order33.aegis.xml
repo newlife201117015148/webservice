@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings>
+	<mapping name="Order_">
+		<property name="ID" mappedName="_id_" />
+		<property name="orderNo" mappedName="_orderno_" />
+		<property name="price" mappedName="_price_" />
+	</mapping>
+</mappings>
